@@ -1,6 +1,6 @@
 {
-  "name": "ODS 2 in 1",
-  "short_name": "ODS2in1",
+  "name": "ODS",
+  "short_name": "ODS",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
